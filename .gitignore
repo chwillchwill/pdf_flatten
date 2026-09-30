@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*_flattened.pdf
+.venv-win/
+build/
+dist/
+*.spec
+.pytest_cache/
+*.pdf
+*:Zone.Identifier
+.claude/settings.local.json
